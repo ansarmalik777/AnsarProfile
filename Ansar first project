@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="Ansar.css">
+	<link rel="stylesheet" type="text/css" href="Ansar Malik Info.html">
+</head>
+
+<body>
+
+<div class="Yellow-welcome">Welcome to Ansar's Awesome Webpage</div>
+<div class="white-sentence">"Don't count the days, make the days count"</div>
+
+
+<div class="white-background">
+<div class="More-info">Home || 
+
+	<iframe src="Ansar Malik Info.html">More Info</iframe>
+
+
+<div class="about-me"><h1>Who am I?</h1></div>
+		<p class="intro">My name is Ansar Subhan Malik. I'm a full time student at the University of Texas majoring in Advertising. When I'm not studying and busy with school, I work out and chill with friends. I enjoy NFL football, music, especially hip hop, and eating good food. </p> 
+
+
+<div class="flex-container">
+<div class="image1"><img src="AnsarProfile1.jpg" alt="Profile Picture 1" ></div>
+<div class="image2"><img src="AnsarM2.jpg" alt="Profile Picture 2" width="300" height="300"></div>
+<div class="image3"><img src="AnsarM3.jpg" alt="Profile Picture 3" width="300" height="300"></div>
+</div> 
+
+
+<div class="My-Work-Experience"><h1>My Work Experience</h1> </div>
+<p class="work"><li>Moody College of Communication - Student - (2017 - Present) 
+<br><li>Personal trainer (2016 - Present)
+<br><li>Taco Bell - (2016 - 2017)
+<br><li>Zip Code Mail Center - (2013 - 2014) 
+</p>
+<hr>
+
+<div class="My-Websites"><h1>Favorite links to websites I frequent</h1> </div>
+<p class="work-link">
+	<a href="https://www.youtube.com/">Youtube is more than just entertaining!</a>
+	<br><a href="http://www.espn.com/">Why watch anything else when ESPN exists!</a>
+	<br><a href="https://open.spotify.com/browse">Where I find my jam!</a>
+<hr>
+
+<div class="Contact-Me"><h1>Contact me via links below</h1> </div>
+<p class="Contact-info">
+	<a href="ansarmalik24@utexas.edu">ansarmalik24@utexas.edu</a>
+	<br><a href="https://twitter.com/AnswoleMalik">@AnswoleMalik </a>
+</div>
+
+<div class="copyright">Copyright © 2017<b> Ansar Malik</b>. All Rights Reserved.</div>	
+</body>
+</html>
